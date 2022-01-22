@@ -1,0 +1,7 @@
+Flask==1.1.1
+Flask-Cors==3.0.9
+Flask-RESTful==0.3.7
+grequests==0.6.0
+gunicorn==19.3.0
+beautifulsoup4==4.8.2
+requests==2.22.0
