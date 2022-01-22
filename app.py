@@ -227,7 +227,7 @@ def codeforces(username):
             max_rank = 'Unrated'
 
         return {
-            'status': 'Success',
+            'success' : True,
             'username': username,
             'platform': 'Codeforces',
             'rating': rating,
